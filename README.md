@@ -9,7 +9,7 @@ apt install git curl -y
 git clone https://github.com/febribrebes/kivgen
 ```
 ```
-cd genieacs
+cd kivgen
 ```
 ```
 chmod +x install.sh && chmod +x darkmode.sh
